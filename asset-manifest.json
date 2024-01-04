@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simplereacttodeploy/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/simplereacttodeploy/static/js/main.2c72b389.chunk.js",
+    "main.js.map": "/simplereacttodeploy/static/js/main.2c72b389.chunk.js.map",
+    "runtime-main.js": "/simplereacttodeploy/static/js/runtime-main.f8f9b85e.js",
+    "runtime-main.js.map": "/simplereacttodeploy/static/js/runtime-main.f8f9b85e.js.map",
+    "static/js/2.43f2ee7e.chunk.js": "/simplereacttodeploy/static/js/2.43f2ee7e.chunk.js",
+    "static/js/2.43f2ee7e.chunk.js.map": "/simplereacttodeploy/static/js/2.43f2ee7e.chunk.js.map",
+    "index.html": "/simplereacttodeploy/index.html",
+    "precache-manifest.8eca1e452cf9ab7aa2294c1dad352ffa.js": "/simplereacttodeploy/precache-manifest.8eca1e452cf9ab7aa2294c1dad352ffa.js",
+    "service-worker.js": "/simplereacttodeploy/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/simplereacttodeploy/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.43f2ee7e.chunk.js.LICENSE.txt": "/simplereacttodeploy/static/js/2.43f2ee7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8f9b85e.js",
+    "static/js/2.43f2ee7e.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.2c72b389.chunk.js"
+  ]
+}
